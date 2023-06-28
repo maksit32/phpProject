@@ -23,19 +23,7 @@ if($strlen)
 
 
 //podcluchili
-//require 'function.php';
+require 'function.php';
 //vyzov in function.php
-//scanFolder('.');
-
-
-
-
-
-/*echo '<pre>';
-
-print_r($_SERVER);
-echo '</pre>'; */
-
-
-require('../src/main.php');
+scanFolder('.');
 
